@@ -55,7 +55,7 @@ The variables controlled are velocity in X and Y, the yaw rate and the position 
 
 ## Acknowledgments
 
-We thank the authors of the autonomous_landing_uav repository for providing the simulation environment used in this project.
+We thank the authors of the ```https://github.com/MikeS96/autonomous_landing_uav``` for providing the simulation environment used in this project.
 
 
 ## Citation
