@@ -52,3 +52,24 @@ To autonomously land the vehicle use the drone_controller package. The process v
 python3 drone_controller/scripts/PID_Controller.py  
 ```
 The variables controlled are velocity in X and Y, the yaw rate and the position in Z of the quad-rotor.
+
+## Acknowledgments
+
+We thank the authors of the autonomous_landing_uav repository for providing the simulation environment used in this project.
+
+
+## Citation
+
+
+```
+@article{9656574,
+	title        = {Monocular Visual Autonomous Landing System for Quadcopter Drones Using Software in the Loop},
+	author       = {Saavedra-Ruiz, Miguel and Pinto-Vargas, Ana Maria and Romero-Cano, Victor},
+	year         = 2022,
+	journal      = {IEEE Aerospace and Electronic Systems Magazine},
+	volume       = 37,
+	number       = 5,
+	pages        = {2--16},
+	doi          = {10.1109/MAES.2021.3115208}
+}
+```
